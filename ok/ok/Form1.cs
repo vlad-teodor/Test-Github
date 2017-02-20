@@ -16,5 +16,10 @@ namespace ok
         {
             InitializeComponent();
         }
+
+        public void randomStuff()
+        {
+
+        }
     }
 }
